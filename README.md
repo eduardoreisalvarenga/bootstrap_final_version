@@ -4,5 +4,6 @@ This is my solution to Microverse's seventh project. It is a clone of the Newswe
 # Project author
 Eduardo Dos Reis Alvarenga
 Screenshots 
+![Website](images/picture_1.png)
 
 
