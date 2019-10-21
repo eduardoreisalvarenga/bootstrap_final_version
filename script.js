@@ -11,7 +11,7 @@ window.onresize = function () {
 
 var nav = document.getElementById('navscroll');
 var sticky = nav.offsetTop;
-var date = document.getElementById('datenav');
+var date = document.getElementsByClassName('datenav');
 var shevron = document.getElementById('shevron');
 var bars = document.getElementById('barsId');
 var logo = document.getElementById('biglogoid');
